@@ -33,7 +33,6 @@ and checks whether the PCB is working properly (PASS/FAIL).
 ## ▶️ How to Run
 ```bash
 python pcb_tester.py
-
 # Wireless E-Notice Board
 
 ## Description
