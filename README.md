@@ -34,7 +34,7 @@ and checks whether the PCB is working properly (PASS/FAIL).
 ```bash
 python pcb_tester.py
 
-## Wireless E-Notice Board
+Wireless E-Notice Board
 
 ## Description
 This project simulates a wireless electronic notice board system where messages can be sent and displayed.
