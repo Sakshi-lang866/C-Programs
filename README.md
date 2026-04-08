@@ -33,3 +33,28 @@ and checks whether the PCB is working properly (PASS/FAIL).
 ## ▶️ How to Run
 ```bash
 python pcb_tester.py
+
+# Wireless E-Notice Board
+
+## Description
+This project demonstrates a wireless electronic notice board using NodeMCU and embedded systems.
+
+## Features
+- Wireless message transmission
+- Real-time display on LCD
+- Simple user input system
+
+## Hardware Used
+- NodeMCU (ESP8266)
+- LCD Display
+- Wi-Fi Communication
+
+## Technologies Used
+- Embedded C / Arduino
+- IoT Concepts
+
+## Output
+Displays messages on the electronic notice board in real-time
+
+## Note
+This is a basic simulation of the actual hardware implementation.
