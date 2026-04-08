@@ -11,17 +11,17 @@ It measures:
 
 and checks whether the PCB is working properly (PASS/FAIL).
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python
 - Raspberry Pi
 - GPIO Library
 
-## ⚙️ Hardware Required
+##  Hardware Required
 - Raspberry Pi
 - Sensors (Voltage, Current, Temperature)
 - ADC (e.g., ADS1115)
 
-## 🚀 How It Works
+##  How It Works
 1. Sensors read voltage, current, and temperature.
 2. Values are processed in Python.
 3. System checks:
@@ -30,7 +30,7 @@ and checks whether the PCB is working properly (PASS/FAIL).
    - Temperature < 70°C
 4. Displays PCB Status → PASS / FAIL
 
-## ▶️ How to Run
+##  How to Run
 ```bash
 python pcb_tester.py
 
